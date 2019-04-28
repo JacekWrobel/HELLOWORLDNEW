@@ -1,4 +1,4 @@
-public class WORLD { //pętla minus do Huba
+public class WORLD { //pętla minus do Huba nr 2
     public static void main(String[] args) {
         int i;
         int counter;

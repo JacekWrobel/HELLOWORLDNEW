@@ -1,4 +1,4 @@
-public class HELL { //petla plus do Huba
+public class HELL { //petla plus do Huba czyli nr 1
     public static void main(String[] args) {
         int i;
         int counter;
